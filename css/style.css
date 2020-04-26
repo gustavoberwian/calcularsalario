@@ -1,0 +1,84 @@
+body{
+    background-color: #003772;
+}
+
+#logo{
+    top: 10vw;
+}
+
+#logo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header h1{
+    color: white;
+    font-family: "VCR OSD Mono";
+    text-align: center;
+}
+
+main input{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 7vw;
+    border-radius: 20px;
+    width: 60%;
+    font-family: "VCR OSD Mono";
+}
+
+#table {
+    background-color: #eee;
+    width: 60%;
+    position: relative;
+    left: 20%;
+    top: 4vw;
+    border-radius: 10px;
+    font-family: "VCR OSD Mono";
+}
+
+#table th{
+    text-align: center;
+    font-family: "VCR OSD Mono";
+}
+
+@media screen and (min-width: 768px){
+    body{
+        background-color: #003772;
+    }
+    
+    #logo{
+        top: 10vw;
+    }
+    
+    #logo img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    header h1{
+        color: white;
+        font-family: "VCR OSD Mono";
+        text-align: center;
+    }
+    
+    main input{
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 4vw;
+        border-radius: 20px;
+        width: 40%;
+    }
+
+    #limpar {
+        width: 15%;
+        position: relative;
+        left: 60%;
+        top: 5vw;
+    }
+}

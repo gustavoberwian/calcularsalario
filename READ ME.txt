@@ -1,0 +1,7 @@
+Desenvolva um aplicativo que receba o valor do salário bruto de um número 
+indefinido de pessoas. Posteriormente calcular os devidos descontos referentes 
+a INSS e IRPF. Armazenar estar informações para posterior consulta.
+Após informar os dados de cada pessoa, a lista com as informações já inseridas 
+deverá ser apresentada.
+O aplicativo deverá ser hospedado e disponibilizado o link nesta tarefa. Além 
+dos arquivos em formato compactado.
