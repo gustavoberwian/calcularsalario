@@ -36,7 +36,7 @@
             $salarioLiquido = $salarioINSS-($salarioINSS*0.275)+869.36;
         }
 
-        fwrite($arquivo, "Nome: ".$name." | Renda líquida: ".$salarioLiquido." |\r\n<hr/><hr/>");
+        fwrite($arquivo, "Nome: ".$name." | Renda líquida: ".$salarioLiquido." |\r\n<hr/>");
      
         fclose($arquivo);
         $exibirArq = fopen("../arquivo.txt","r");

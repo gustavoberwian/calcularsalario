@@ -37,7 +37,7 @@
                 ?>
             </table>
         </div>
-        <form action="./php/action.php" method="POST">"
+        <form action="./php/action.php" method="POST">
             <div id="limpar">
                 <input type="submit" name="Limpar" value="Limpar" />
             </div>  
